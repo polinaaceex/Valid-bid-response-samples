@@ -1,6 +1,4 @@
 # Valid-bid-request-samples
-
-
 {
     "data":{
         "id":"271-f7dd414e5b61110-869",
