@@ -1,6 +1,6 @@
 # Valid-bid-response-samples
 #iOS Banner
-{
+<p>{</p>.
     "data":{
         "id":"271-f7dd414e5b61110-869",
         "seatbid":[
