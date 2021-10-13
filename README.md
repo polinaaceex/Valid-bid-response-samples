@@ -1,4 +1,5 @@
-# Valid-bid-request-samples
+# Valid-bid-response-samples
+#iOS Banner
 {
     "data":{
         "id":"271-f7dd414e5b61110-869",
